@@ -42,9 +42,7 @@
         "activeTab",
         "storage",
         "http://mail.google.com/*",
-        "https://mail.google.com/*",
-        "http://app.followupfred.com/*",
-        "https://app.followupfred.com/*"
+        "https://mail.google.com/*"
     ],
 
     "web_accessible_resources": ["icons/*.*", "lib/*.*"],
