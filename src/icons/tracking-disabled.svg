@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="schedule-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-906.000000, -741.000000)">
+        <g id="Group-3" transform="translate(916.906854, 748.313708) rotate(-315.000000) translate(-916.906854, -748.313708) translate(910.406854, 738.813708)" stroke="#838383">
+            <path d="M0.5,10.5 L0.5,18 C0.5,18.2761424 0.723857625,18.5 1,18.5 L12,18.5 C12.2761424,18.5 12.5,18.2761424 12.5,18 L12.5,10.5 L0.5,10.5 Z" id="Rectangle-4"></path>
+            <path d="M0.5,0.5 L0.5,4.07849367 C0.5,4.49543702 0.673540183,4.89356797 0.978986612,5.17737113 L6.17117701,10.0016542 C6.36296241,10.1798501 6.65973128,10.1799416 6.85162658,10.0018641 L12.0203353,5.20533648 C12.3261927,4.92150286 12.5,4.52309459 12.5,4.10582939 L12.5,0.5 L0.5,0.5 Z" id="Rectangle-4-Copy" transform="translate(6.500000, 5.500000) scale(1, -1) translate(-6.500000, -5.500000) "></path>
+            <path d="M1.01772748,10.9666378 L5.89257851,15.2388046 C6.26979213,15.5693828 6.83353972,15.5693828 7.21075333,15.2388046 L12.0856044,10.9666378" id="Path-2"></path>
+        </g>
+    </g>
+</svg>

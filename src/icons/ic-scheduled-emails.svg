@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mailtag.io-Ping-Tab-2" transform="translate(-35.000000, -354.000000)" stroke="#2f3d4c" stroke-width="1.5">
+            <g id="Mailtag.io-Inbox" transform="translate(1.000000, 0.000000)">
+                <g id="Sidebar" transform="translate(-1.000000, 0.000000)">
+                    <g id="clock" transform="translate(36.000000, 355.000000)">
+                        <circle id="Oval" cx="7.5" cy="7.5" r="7.5"></circle>
+                        <polyline id="Shape" points="7.5 3 7.5 7.5 9.75 9.75"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

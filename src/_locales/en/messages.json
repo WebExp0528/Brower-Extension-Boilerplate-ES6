@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "Pre-Validation-Email",
+        "description": "Extension name"
+    },
+    "extDesc": {
+        "message": "This is a chrome extension",
+        "description": "Extension description"
+    }
+}

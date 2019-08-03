@@ -1,0 +1,64 @@
+{
+    "name": "browser-extenion-boilderplate",
+    "version": "1.0.0",
+    "description": "This is a chrome extension.",
+    "devDependencies": {
+        "axios": "^0.19.0",
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-plugin-syntax-dynamic-import": "^6.18.0",
+        "babel-polyfill": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-stage-0": "^6.24.1",
+        "clean-webpack-plugin": "^3.0.0",
+        "compression-webpack-plugin": "^2.0.0",
+        "copy-webpack-plugin": "^5.0.3",
+        "css-loader": "^2.1.1",
+        "file-loader": "^3.0.1",
+        "html-loader": "^0.5.1",
+        "html-webpack-plugin": "^3.2.0",
+        "mini-css-extract-plugin": "^0.7.0",
+        "node-sass": "^4.12.0",
+        "progress-bar-webpack-plugin": "^1.12.1",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "sass-loader": "^7.1.0",
+        "scss-loader": "0.0.1",
+        "standard": "^12.0.1",
+        "style-loader": "^0.23.1",
+        "uglifyjs-webpack-plugin": "^2.1.3",
+        "url-loader": "^1.1.2",
+        "webpack": "^4.32.2",
+        "webpack-bundle-analyzer": "^3.3.2",
+        "webpack-cli": "^3.3.2",
+        "webpack-merge": "^4.2.1"
+    },
+    "scripts": {
+        "prebuild": "./node_modules/rimraf/bin.js ./extension/dist/",
+        "test": "node_modules/.bin/standard",
+        "start": "NODE_ENV=development webpack --config ./configs/webpack.config.dev.js --watch",
+        "build": "NODE_ENV=production webpack --config ./configs/webpack.config.prod.js",
+        "analyze": "NODE_ENV=production NODE_ANALYZE=analyze webpack --config ./configs/webpack.config.prod.js"
+    },
+    "keywords": [
+        "extension",
+        "chrome-extension",
+        "firefox-addon"
+    ],
+    "bugs": {
+        "url": "https://github.com/zenichanin/followup-fred-chrome/issues"
+    },
+    "standard": {
+        "globals": [
+            "browser",
+            "chrome",
+            "window"
+        ],
+        "ignore": [
+            "extension/dist/",
+            "node_modules/"
+        ]
+    }
+}

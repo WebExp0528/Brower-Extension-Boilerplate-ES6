@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="choose-ping-sequence" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-972.000000, -740.000000)">
+        <g id="Group" transform="translate(972.593146, 741.000000)">
+            <circle id="Oval-Copy" stroke="#458CFA" fill="#458CFA" cx="8.5" cy="8.5" r="8.5"></circle>
+            <path d="M13,8.5 C13,10.975 10.975,13 8.5,13 C6.025,13 4,10.975 4,8.5 C4,6.025 6.025,4 8.5,4 C9.83146594,4 11.0334263,4.56982444 11.850426,5.49331896" id="Shape" stroke="#FFFFFF"></path>
+            <polyline id="Rectangle-3" stroke="#FFFFFF" points="12 3 12 6 9 6"></polyline>
+        </g>
+    </g>
+</svg>

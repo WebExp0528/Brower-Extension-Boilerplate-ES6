@@ -1,0 +1,146 @@
+.container {
+    display: block;
+    min-height: 200px;
+    overflow: hidden;
+    padding: 0;
+    width: 300px;
+}
+
+.header {
+    padding: 20px 10px 20px 20px;
+    height: 32px;
+}
+
+.title {
+    color: #000;
+    float: left;
+    opacity: 0.55;
+}
+
+.title span {
+    padding: 4px 0;
+    display: block;
+}
+
+.button-right {
+    float: right;
+}
+
+.jfk-button-flat {
+    border-radius: 0;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-weight: normal;
+    height: 21px;
+    line-height: 21px;
+    min-width: 0;
+    padding: 0;
+}
+
+.img-settings {
+    background: transparent url("../icons/settings.svg") no-repeat center;
+    height: 20px;
+    opacity: 0.35;
+    overflow: hidden;
+    padding-right: 2px;
+    width: 22px;
+}
+
+.menu-options {
+    background-color: #fff;
+    border: 1px solid #b8b8b8;
+    box-shadow: 0 0 5px #888;
+    display: none;
+    right: 10px;
+    padding: 5px;
+    position: absolute;
+    top: 40px;
+    width: 170px;
+    z-index: 100;
+}
+
+.menu-options.show {
+    display: block;
+}
+
+.menu-options ul {
+    margin: 5px;
+    list-style: none;
+    padding: 0;
+}
+
+.menu-options ul li {
+    cursor: pointer;
+    font-size: 13px;
+    padding: 5px 0 5px 5px;
+}
+
+.detail-container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.detail-container .popup-content {
+    height: 300px;
+    padding: 25px;
+}
+
+//Header Style
+.header-img {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+
+.header-title {
+    display: inline;
+    vertical-align: middle;
+    font-size: 25px;
+    color: #0000005e;
+}
+
+//Sign up
+.detail-signup {
+    font-size: 20px;
+    color: #1ba163;
+    background: #d7f7e8;
+    padding: 20px;
+}
+
+.btn-text {
+    padding: 5px;
+    color: #737373;
+    font-size: 16px;
+}
+
+.img-google {
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btn-signup {
+    display: inline-block;
+    border-radius: 15px;
+    background: #ff8b8b;
+    padding: 5px 20px;
+}
+
+body {
+    margin: 0px;
+}
+
+.signup {
+    height: 100%;
+    padding: 10px 20px;
+    display: block;
+}
+
+.btn-signup:hover {
+    background-color: #ff5555;
+    box-shadow: 0 5px 7px 0 rgba(0, 0, 0, 0.24),
+        0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}

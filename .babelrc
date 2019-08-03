@@ -1,0 +1,13 @@
+{
+    "presets": [
+        ["env", {
+            "targets": {
+                "browsers": ["chrome >= 39", "firefox >= 48"]
+            },
+            "modules": false,
+            "useBuiltIns": true,
+            "debug": true
+        }],
+        "stage-0"
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mailtag.io-Copy-Click" transform="translate(-524.000000, -175.000000)">
+            <g id="CTA" transform="translate(524.000000, 172.000000)">
+                <g id="Icon-" transform="translate(0.000000, 3.000000)">
+                    <rect id="Bg" fill="#E8F5FF" fill-rule="nonzero" x="0" y="0" width="25" height="25" rx="12.5"></rect>
+                    <g id="file" transform="translate(7.500000, 5.833333)" stroke="#2B9EFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                        <path d="M3.9375,0 L0.875,0 C0.391750844,0 0,0.402943725 0,0.9 L0,8.1 C0,8.59705627 0.391750844,9 0.875,9 L6.125,9 C6.60824916,9 7,8.59705627 7,8.1 L7,3.15 L3.9375,0 Z" id="Shape" fill="#E8F5FF"></path>
+                        <path d="M4,0 L4,2.44487179 C4,2.83430335 4.31569665,3.15 4.70512821,3.15 L7.0625,3.15 L4,0 Z" id="Shape"></path>
+                    </g>
+                    <g id="file" transform="translate(10.833333, 8.333333)" stroke="#2B9EFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                        <path d="M4.8125,0 L1.06944444,0 C0.478806587,0 0,0.476206221 0,1.06363636 L0,9.57272727 C0,10.1601574 0.478806587,10.6363636 1.06944444,10.6363636 L7.48611111,10.6363636 C8.07674897,10.6363636 8.55555556,10.1601574 8.55555556,9.57272727 L8.55555556,3.72272727 L4.8125,0 Z" id="Shape" fill="#E8F5FF"></path>
+                        <path d="M4.88888889,0 L4.88888889,2.88939394 C4.88888889,3.34963123 5.26198493,3.72272727 5.72222222,3.72272727 L8.63194444,3.72272727 L4.88888889,0 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
